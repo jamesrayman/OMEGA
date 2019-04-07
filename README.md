@@ -9,3 +9,4 @@ A program set for UIL math competitions
 * `DIOPH`: solve Diophantine equations
 * `SOLVE`: solve system of equations
 * `SLNLYS`: statistics on solutions in a range
+* `UNITS`: unit conversions
