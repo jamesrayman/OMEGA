@@ -187,3 +187,10 @@ of the form K(K+1)(K+2)/6
 
 EX: 1, 4, 10, 20, 35
 #
+EMIRP
+N is prime, and when N's
+digits are reversed, a
+new prime is generated
+
+EX: 13, 17, 31, 37, 71
+#
