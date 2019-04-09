@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "util.h"
 #include "base.h"
 
 void printText(const char *text, uint8_t x, uint8_t y);
@@ -96,7 +97,7 @@ void replaceChars (char *entry) {
 
     int i, j, len = strlen(entry);
     for (i = 0; i < len; i++) {
-        for (j = 0; j < sizeof orig; j++) {
+        for (j = 0; j < SIZE(orig); j++) {
             if (entry[i] == orig[j]) {
                 entry[i] = repl[j];
                 break;
