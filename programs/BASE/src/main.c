@@ -90,6 +90,7 @@ void printText(const char *text, uint8_t xpos, uint8_t ypos) {
 void printTextSmall(const char *text, uint8_t xpos, uint8_t ypos) {
     os_FontDrawText(text, xpos, ypos);
 }
+
 void replaceChars (char *entry) {
     const char orig [] = "pq\x82\x83\xf0\x10\x11\x08\x09:\xb0>+";
     const char repl [] = "+-*" "/" "^" "(" ")" "{" "}" ".-" ":,";
