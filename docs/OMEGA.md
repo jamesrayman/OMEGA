@@ -1,6 +1,6 @@
 # OMEGA
 
-## Base
+## BASE
 
 Digits are `0123456789ABCDE...`.
 
