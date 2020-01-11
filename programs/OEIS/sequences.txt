@@ -1,4 +1,4 @@
-Encyclopedia of Integer Sequences
+Offline Encyclopedia of Integer Sequences
 
 All entries are two or more lines. The first line is the name of the type of
 number (title), always in all uppercase. The rest of the lines are the
@@ -10,7 +10,7 @@ characters.
 
 C escape codes are permitted.
 
-Entries begin after the '~' and end after the '#'
+Entries begin after the '~' and end after the '#'.
 ~
 PERFECT
 N is equal to the sum of
@@ -193,4 +193,12 @@ digits are reversed, a
 new prime is generated
 
 EX: 13, 17, 31, 37, 71
+#
+SELF
+N such that there is no
+solution to N=M+S(M) where
+S(M) is the sum of the
+digits of M
+
+EX: 1, 3, 5, 7, 9, 20
 #
