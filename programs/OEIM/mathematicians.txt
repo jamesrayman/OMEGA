@@ -221,3 +221,10 @@ for cryptanalysis, the
 Church-Turing thesis, and
 the Turing test
 #
+MARY ELLEN RUDIN
+American mathematician
+known for her work in
+set-theoretic topology;
+former VP of AMS;
+speaker at ICM in 1974
+#
