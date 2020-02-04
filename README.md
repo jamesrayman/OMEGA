@@ -4,7 +4,6 @@ A program set for UIL math competitions
 
 # Programs
 * `A0101010`: menu for other programs
-* `MAN`: manual for other programs
 * `BASE`: arithmetic with different bases
 * `OEIS`: offline encyclopedia of integer sequences (definitiions, export sequence, number lookup)
 * `OEIM`: offline encyclopedia of important mathematicians
