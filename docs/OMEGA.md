@@ -16,7 +16,7 @@ Use `:` to end expression and begin output format.
 
 Specify output base.
 
-`.` for decimal output.
+`.` for radix point output.
 
 `/` for fractional output.
 
@@ -24,7 +24,7 @@ Default is decimal base 10 output.
 
 ## RATIONAL
 
-Varibles are `STUVWXYZ`.
+Varibles are `XYZ`.
 
 Normal operators are `+-*/^`. Implicit multiplication is allowed. Parentheses are usable.
 
@@ -48,6 +48,6 @@ Use `:` to end expression and begin output format.
 
 `0` to output zeros (polynomials in `X` only).
 
-`0` for list form (polynomials in `X` only).
+`{` for list form (polynomials in `X` only).
 
 Default is expression evaluable by TI-84 using fractions instead of decimals.
