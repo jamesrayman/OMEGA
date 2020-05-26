@@ -1,0 +1,230 @@
+Offline Encyclopedia of Important Mathematicians
+
+All entries are two or more lines. The first line is the name of the
+mathematician (title), always in all uppercase. The rest of the lines are the
+description of the mathematician (body), in sentence case. Entries are
+terminated by a single '#'.
+
+Titles are one line. Bodies are at most 8 lines. Each line is at most 26
+characters.
+
+C escape codes are permitted.
+
+Entries begin after the '~'.
+~
+MARIA GAETANA AGNESI
+First woman to write a
+mathematics handbook;
+first woman appointed as a
+mathematics professor at a
+university
+#
+ARCHIMEDES
+Considered greatest
+mathematician of
+antiquity; created an
+early version of calculus
+through the concept of
+infinitesimals
+#
+GEORGE BOOLE
+Father of Boolean algebra,
+the algebra of the set
+{0, 1}; contributed to
+differential equations and
+algebraic logic
+#
+ADA BYRON (LADY LOVELACE)
+Worked with Babbage on the
+Analytical Engine; first
+person to recognize a
+computer's usefulness past
+pure calculation;
+considered to be the first
+computer programmer
+#
+GEORG CANTOR
+Father of set theory;
+known for work related to
+orders of infinity and
+ordinal and cardinal
+numbers
+#
+RENE DESCARTES
+Father of analytical
+geometry; created
+Cartesian coordinate
+system
+#
+DIOPHANTUS
+Considered as the father
+of algebra; contributed to
+Diophantine analysis, the
+algebra of finding integer
+solutions to systems of
+equations
+#
+ERASTOSTHENES
+Created the sieve of
+Erastosthenes, an
+efficient method for
+finding prime numbers
+#
+EUCLID
+Father of geometry;
+contributed to number
+theory and the
+mathematical rigor of
+proofs
+#
+LEONHARD EULER
+Contributed to
+infinitesimal calculus and
+graph theory; Pioneered
+topology and analytic
+number theory
+#
+SOPHIE GERMAIN
+Made contributions to
+number theory with Gauss
+and Legendre; known for
+work on Fermat's last
+theorem
+#
+CHRISTIAN GOLDBACH
+Known for Goldbach's
+conjecture: every positive
+even integer other than 2
+can be written as the sum
+of two primes; Worked with
+Leibniz, Euler, and
+Bernoulli
+#
+HYPATIA
+First female mathematician
+whose life was reasonably 
+recorded; preserved and
+commented on the works
+of other mathematicians
+of antiquity
+#
+SONYA KOVALEVSKY
+first major female Russian
+mathematician; contributed
+to analysis, differential
+equations, and mechanics
+#
+GOTTFRIED LEIBNIZ
+Developed calculus
+independently of Newton;
+developed topology
+#
+BENOIT MANDELBROT
+Father of fractal
+geometry; created
+Mandelbrot set;
+Contributed to chaos
+thoery
+#
+MARIN MERSENNE
+Worked on the mathematics
+of virbrating strings;
+known as the father of
+acoustics; Mersenne primes
+named in his honor
+#
+JOHN NAPIER
+Creator of logarithms;
+made decimal point
+notation common
+#
+AMALIE "EMMY" NOETHER
+2nd woman to recieve a
+doctorate in the field of
+mathematics; contributed
+to abstract algebra:
+rings, groups,
+and fields
+#
+FREDA PORTER
+One of the few American
+Indian women who have
+earned a Ph.D. in
+mathematics; a member of
+the Lumbee tribe
+#
+CLAUDIUS PTOLEMY
+Contributed to geometry,
+astronomy, the mathematics
+of music, and optics
+#
+KAREN E. SMITH
+Recognized for research
+in algebraic geometry and
+communicative algebra;
+received 2001 Ruth Lyttle
+Satter Prize for
+mathematical work as a
+woman
+#
+ALICIA STOTT
+Contributed to higher
+dimensional geometry
+#
+THEANO
+Female philosopher of
+Ancient Greece;
+believed to be closely
+related to Pythagoras
+#
+JOHN VENN
+Worked in Boolean algebra,
+set theory, and
+probability theory;
+known for Venn diagram
+#
+FRANCISCUS VIETA
+Created new algebra -
+algebra that used letters
+as unknown variables in
+equations
+#
+GRACE WILLIAMS
+First Nigerian woman to
+become head of a Nigerian
+university, the University
+of Benin
+#
+ZENO OF ELEA
+Philosopher of Greek
+antiquity best known for
+his paradoxes
+#
+LEONARDO PISANO BIGOLLO
+Also known as Fibonacci;
+known for the Fibonacci
+sequence; popularized
+Hindu-Arabic numerals in
+Europe
+#
+ARYABHATA
+The first of mathemetian-
+astronomers of Classical
+India; contributed to
+algebra, trigonometry,
+and modular arithmetic
+#
+ALAN TURING
+Developed theoretical
+computer science; known
+for cryptanalysis, the
+Church-Turing thesis, and
+the Turing test
+#
+MARY ELLEN RUDIN
+American mathematician
+known for her work in
+set-theoretic topology;
+former VP of AMS;
+speaker at ICM in 1974
+#

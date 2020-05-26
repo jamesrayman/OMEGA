@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "util.h"
 #include "base.h"
 
 void printText(const char *text, uint8_t x, uint8_t y);
@@ -89,6 +90,7 @@ void printText(const char *text, uint8_t xpos, uint8_t ypos) {
 void printTextSmall(const char *text, uint8_t xpos, uint8_t ypos) {
     os_FontDrawText(text, xpos, ypos);
 }
+
 void replaceChars (char *entry) {
     const char orig [] = "pq\x82\x83\xf0\x10\x11\x08\x09:\xb0>+";
     const char repl [] = "+-*" "/" "^" "(" ")" "{" "}" ".-" ":,";
@@ -96,7 +98,7 @@ void replaceChars (char *entry) {
 
     int i, j, len = strlen(entry);
     for (i = 0; i < len; i++) {
-        for (j = 0; j < sizeof orig; j++) {
+        for (j = 0; j < SIZE(orig); j++) {
             if (entry[i] == orig[j]) {
                 entry[i] = repl[j];
                 break;
